@@ -1,0 +1,10 @@
+C:\Users\erems\source\repos\ComputerSystemControl\ComputerSystemControl\bin\Debug\ComputerSystemControl.exe.config
+C:\Users\erems\source\repos\ComputerSystemControl\ComputerSystemControl\bin\Debug\ComputerSystemControl.exe
+C:\Users\erems\source\repos\ComputerSystemControl\ComputerSystemControl\bin\Debug\ComputerSystemControl.pdb
+C:\Users\erems\source\repos\ComputerSystemControl\ComputerSystemControl\obj\Debug\ComputerSystemControl.csprojAssemblyReference.cache
+C:\Users\erems\source\repos\ComputerSystemControl\ComputerSystemControl\obj\Debug\ComputerSystemControl.Form1.resources
+C:\Users\erems\source\repos\ComputerSystemControl\ComputerSystemControl\obj\Debug\ComputerSystemControl.Properties.Resources.resources
+C:\Users\erems\source\repos\ComputerSystemControl\ComputerSystemControl\obj\Debug\ComputerSystemControl.csproj.GenerateResource.cache
+C:\Users\erems\source\repos\ComputerSystemControl\ComputerSystemControl\obj\Debug\ComputerSystemControl.csproj.CoreCompileInputs.cache
+C:\Users\erems\source\repos\ComputerSystemControl\ComputerSystemControl\obj\Debug\ComputerSystemControl.exe
+C:\Users\erems\source\repos\ComputerSystemControl\ComputerSystemControl\obj\Debug\ComputerSystemControl.pdb
